@@ -1,0 +1,4 @@
+## .gitignore file for semimap-scaffold
+
+## ignore folder fetched through gclient
+semimap
